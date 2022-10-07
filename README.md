@@ -79,3 +79,6 @@ Se realizo un script en Haskell, utilizando programacion funcional para las oper
 Se realizo un script en Python, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
 ![image](https://user-images.githubusercontent.com/39333761/194580001-26ea3719-b236-400b-8054-3d13c2f7d929.png)
 
+Autor:
+
+[@sergiopaucara](https://github.com/paukiss/)
