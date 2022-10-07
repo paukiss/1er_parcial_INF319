@@ -1,0 +1,11 @@
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\CalculadoraPOO.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\CalculadoraPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\Windows_calc.Form1.resources
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\CalculadoraPOO.csproj.GenerateResource.cache
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\bin\Debug\Windows_calc.exe.config
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\bin\Debug\Windows_calc.exe
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\bin\Debug\Windows_calc.pdb
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\Windows_calc.Properties.Resources.resources
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\Windows_calc.exe
+C:\Users\sergi\OneDrive\Imágenes\primerParcial_INF319\pregunta1\Calculadora\Windows_calc\obj\Debug\Windows_calc.pdb
