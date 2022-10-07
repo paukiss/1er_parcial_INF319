@@ -40,7 +40,7 @@ Este proyecto fue generado en:
 
 ### _First Start_
 
-Se desarrollo un script en ***Visual Basic*** para el ordenamiento de 3 numeros, la ejecucion del programa se puede observar en la siguiente imagen. Solo utilizando instruccion de condicionales y la funcion **GoTo**
+Se desarrollo un script en ***Windows Forms app Visual Basic*** para el ordenamiento de 3 numeros, la ejecucion del programa se puede observar en la siguiente imagen. Solo utilizando instruccion de condicionales y la funcion **GoTo**
 ### _Second Start_
 Utilizando POO (Programacion Orientada de Objetos) se desarrollo una calculadora standar con instruciones de suma, resta, multiplicacion, division y potencia.
 ### _Third Start_
