@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/paukiss)
 
 Primer examen parcial de la materia INF319 - Programacion Funcional en la Universidad Mayor de San Andres a cargo del docente Moises Martin Silva Choque.
+
 Gestion II / 2022.
 
 - ⭐Mediante uso de GOTO en Visual Basic, realice el ordenamiento de 3 números.💻
@@ -29,6 +30,7 @@ Este proyecto fue generado en:
 ### _Instalar Python y Prolog_ 
 - Descargar y ejecutar [Python](https://www.python.org/downloads/)
 - Descargar y ejecutar [SWI-Prolog](https://www.swi-prolog.org/download/stable)
+    
     Instalar PySwip permite consultar SWI-Prolog en sus programas de Python.
     ```sh
     pip install pyswip
