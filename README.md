@@ -35,9 +35,15 @@ Este proyecto fue generado en:
     ```sh
     pip install pyswip
     ```
-### _Instalar Python y Prolog_ 
+### _Instalar R_ 
 - Descargar y ejecutar [R para Windows](https://cran.r-project.org/bin/windows/base/)
 
+### _Instalar Haskell para Windows_ 
+- Instalar [Chocolatey](https://chocolatey.org/install)
+- Instalar desde la consola CMD o PowerShell:
+    ```sh
+    choco install haskell-dev
+    ```
 ## Desarrollo
 
 ### _First Start_
