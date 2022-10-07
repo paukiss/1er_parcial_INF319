@@ -41,13 +41,15 @@ Este proyecto fue generado en:
 ### _First Start_
 
 Se desarrollo un script en ***Windows Forms app Visual Basic*** para el ordenamiento de 3 numeros, la ejecucion del programa se puede observar en la siguiente imagen. Solo utilizando instruccion de condicionales y la funcion **GoTo**
+![image](https://user-images.githubusercontent.com/39333761/194575711-44ba7b16-c21f-4309-ab6d-666e9173c32f.png)
 ### _Second Start_
 Utilizando POO (Programacion Orientada de Objetos) se desarrollo una calculadora standar con instruciones de suma, resta, multiplicacion, division y potencia.
+![image](https://user-images.githubusercontent.com/39333761/194577090-a3c01793-fa00-4a33-ac58-8305b0294c8f.png)
 ### _Third Start_
 En base al predicado X es padre de Y o **padreDe(X,Y)**, se realizo un programa logico de relacion de abuelos, nietos y primos en Python.
 Ejemplo de *Árbol genealógico*:
 
-Resultado:
+![image](https://user-images.githubusercontent.com/39333761/194578525-be981b0f-34c1-4efb-b935-8b929da3f2b7.png)
 
 ### _Forth Start_
 Se genero una grafica a partir del dataFrame ***Iris*** que viene en R. Donde se manda los siguiente atributos a la funcion **plot**:
@@ -57,14 +59,15 @@ Se genero una grafica a partir del dataFrame ***Iris*** que viene en R. Donde se
 ```
 plot(iris[1:4], pch = 21, col = c("red", "green", "blue")[iris$Species])
 ```
+![image](https://user-images.githubusercontent.com/39333761/194578892-8f47ea29-98ca-4df2-b8dc-ac8a9b0abb8c.png)
 
 ### _Fifth Start_
 Se realizo un script en F#, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
-
+![image](https://user-images.githubusercontent.com/39333761/194579367-755e6c44-1b10-4f33-9b03-acbd14b9967f.png)
 ### _Sixth Start_
 Se realizo un script en Haskell, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
-
+![image](https://user-images.githubusercontent.com/39333761/194579727-1f856f95-6476-472f-a86f-225a9b8232d7.png)
 ### _Seventh Start_
 Se realizo un script en Python, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
-
+![image](https://user-images.githubusercontent.com/39333761/194580001-26ea3719-b236-400b-8054-3d13c2f7d929.png)
 
