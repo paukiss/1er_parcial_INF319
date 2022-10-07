@@ -62,9 +62,9 @@ plot(iris[1:4], pch = 21, col = c("red", "green", "blue")[iris$Species])
 Se realizo un script en F#, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
 
 ### _Sixth Start_
-Se realizo un script en F#, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
+Se realizo un script en Haskell, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
 
 ### _Seventh Start_
-Se realizo un script en F#, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
+Se realizo un script en Python, utilizando programacion funcional para las operaciones de suma, resta, multiplicacion y division de numeros.
 
 
