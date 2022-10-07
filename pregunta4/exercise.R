@@ -1,0 +1,1 @@
+plot(iris[1:4], pch = 21, col = c("red", "green", "blue")[iris$Species])

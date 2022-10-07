@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+OiyF4VGFYWJ/3gUJ22+pax6dFDAey+pNGGXrmF90y1Om+3Ri/IuHlizPeWEl7FXhc81i+MmENXnr6QrQEt5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergi\\source\\repos\\progFuncional\\progFuncional\\progFuncional.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergi\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
